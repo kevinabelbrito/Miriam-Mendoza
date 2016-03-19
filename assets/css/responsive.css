@@ -1,0 +1,706 @@
+/***********************************************************
+********************RESOLUTION: MAX:1199px******************
+***********************************************************/
+@media screen and (max-width: 1199px){
+    /*********************/
+    /*********HOME********/
+    /*********************/
+    
+    #home_evento
+    {
+        padding: 10em 6em;
+    }
+    
+    #services_column .imagen img
+    {
+        width: 18em;
+        height: 18em;
+    }
+    
+    #presupuesto
+    {
+        padding: 6em 1em;
+    }
+    
+    /*********************/
+    /*******EVENTOS*******/
+    /*********************/
+    
+    #sociales_column
+    {
+        height: 20em;
+    }
+    
+    /*********************/
+    /******SERVICIOS******/
+    /*********************/
+    
+    #servicios
+    {
+        padding: 3em;
+    }
+    
+    #servicios #inter_box
+    {
+        height: 22em;
+        margin: 2em 1em;
+    }
+    
+    /*********************/
+    /*******CONTACTO******/
+    /*********************/
+    
+    #contacto #info #v-card a
+    {
+        margin-left: 0.5em;
+    }
+    
+    /*********************/
+    /*******CONTACTO******/
+    /*********************/
+    
+    #contacto
+    {
+        padding: 1em;
+    }
+    
+    #contacto #formulario, #contacto #info
+    {
+        padding: 1em 2em;
+    }
+    
+    #formulario .textbox
+    {
+        font-size: 1.2em;
+        padding: 0.8em 0.2em;
+    }
+
+    .textbox::-webkit-input-placeholder
+    {
+        font-size: 1em;
+    }
+    
+    /*********************/
+    /********FOOTER*******/
+    /*********************/
+    
+    #resumen
+    {
+        padding: 4em 0.5em;
+    }
+    
+    #resumen .list
+    {
+        font-size: 1.2em;
+        line-height: 32px;
+        list-style: none;
+        margin: 1em;
+    }
+    
+    #resumen .links
+    {
+        line-height: 28px;
+        list-style: none;
+        margin: 0 1em;
+    }
+}
+/***********************************************************
+********************RESOLUTION: MAX:991px*******************
+***********************************************************/
+@media screen and (max-width: 991px){
+    /*********************/
+    /********HEADER*******/
+    /*********************/
+    
+    #header nav
+    {
+        margin: 1em;
+    }
+    
+    /*********************/
+    /*********HOME********/
+    /*********************/
+        
+    .cycle-slideshow .caption .content
+    {
+        padding: 14em 3em;
+    }
+    
+    #services_column
+    {
+        margin: 2em;
+    }
+    
+    #services_column .titulo strong
+    {
+        font-size: 2em;
+    }
+    
+    /*********************/
+    /*******EVENTOS*******/
+    /*********************/
+    
+    #sociales_column
+    {
+        height: 28em;
+    }
+    
+    /*********************/
+    /******SERVICIOS******/
+    /*********************/
+    
+    #header_servicios
+    {
+        padding: 6em;
+    }
+    
+    #header_servicios p
+    {
+        font-size: 1.2em;
+    }
+    
+    /*********************/
+    /*******CONTACTO******/
+    /*********************/
+    
+    #contacto
+    {
+        padding: 2em;
+    }
+    
+    #contacto #formulario, #contacto #info
+    {
+        padding: 1em 4em;
+    }
+    
+    #formulario .textbox
+    {
+        font-size: 1.5em;
+        padding: 0.8em 0.2em;
+    }
+
+    .textbox::-webkit-input-placeholder
+    {
+        font-size: 1.2em;
+    }
+    
+    /*********************/
+    /********FOOTER*******/
+    /*********************/
+    
+    #resumen
+    {
+        padding: 2em 4em;
+    }
+    
+    #resumen .col-sm-12
+    {
+        margin: 2em;
+    }
+    
+    #resumen .list, #resumen .links
+    {
+        line-height: 38px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+}
+/***********************************************************
+********************RESOLUTION: MAX:767px*******************
+***********************************************************/
+@media screen and (max-width: 767px){
+    
+    /*********************/
+    /********HEADER*******/
+    /*********************/
+    
+    #menu
+    {
+        box-shadow: 1px 3px 5px #000;
+        display: none;
+        margin-top: 0.5em;
+    }
+    
+    #menu li
+    {
+        display: block;
+        margin: 0;
+    }
+    
+    .menu-responsive
+    {
+        display: block;
+    }
+    
+    /*********************/
+    /********HOME*********/
+    /*********************/
+    
+    .cycle-slideshow
+    {
+        height: 28em;
+    }
+
+    .cycle-slideshow #slide_page img
+    {
+        height: 28em;
+    }
+    
+    .cycle-slideshow .caption .content
+    {
+        padding: 10em 3em;
+    }
+
+    .cycle-slideshow .caption .content h2
+    {
+        font-size: 1.2em;
+    }
+    
+    .cycle-slideshow .caption .content p
+    {
+        font-size: 1em;
+        line-height: 18px;
+    }
+    
+    .carousel .pager
+    {
+        font-size: 2em;
+    }
+    
+    .carousel .navigation a
+    {
+        font-size: 1.5em;
+    }
+    
+    #bienvenida, #home_evento
+    {
+        padding: 8em 2em;
+    }
+    
+    /*********************/
+    /*******EVENTOS*******/
+    /*********************/
+
+    #eventos
+    {
+        padding: 8em 2em;
+    }
+    
+    /*********************/
+    /******SERVICIOS******/
+    /*********************/
+
+    #header_servicios
+    {
+        padding: 8em 2em;
+    }
+    
+    #servicios #inter_box
+    {
+        height: 30em;
+        margin: 2em 0.5em;
+    }
+    
+    /*********************/
+    /*******GALERIA*******/
+    /*********************/
+    
+    #galeria #inter_box
+    {
+        padding: 3em;
+    }
+    
+    #galeria #inter_box img
+    {
+        height: 22em;
+    }
+    
+    #galeria #inter_box img:hover
+    {
+        border-radius: none;
+        box-shadow: none;
+        transform: none;
+    }
+    
+    /*********************/
+    /******CONTACTO*******/
+    /*********************/
+    
+    #formulario label
+    {
+        font-size: 1.2em;
+    }
+
+    #formulario .combobox
+    {
+        background: none;
+        font-size: 1em;
+        padding: 1em;
+        width: 100%;
+    }
+
+    #formulario .combobox option
+    {
+        color: #000;
+    }
+
+    #formulario .textbox
+    {
+        background: none;
+        border: none;
+        border-bottom: 2px solid rgba(255, 255, 255, 0.8);
+        font-size: 1.2em;
+        padding: 0.8em 0.2em;
+        width: 100%;
+    }
+
+    .textbox::-webkit-input-placeholder
+    {
+        color: rgba(255, 255, 255, 0.7);
+        font-family: 'Volkhov', serif;
+        font-weight: 400;
+        font-size: 1em;
+    }
+    
+    /*********************/
+    /********FOOTER*******/
+    /*********************/
+    
+    .ir-arriba
+    {
+        font-size: 1.5em;
+    }
+}
+/***********************************************************
+********************RESOLUTION: MAX:519px*******************
+***********************************************************/
+@media screen and (max-width: 519px){
+    /*********************/
+    /*********HOME********/
+    /*********************/
+    
+    .cycle-slideshow .caption .content p
+    {
+        display: none;
+    }
+    
+    #bienvenida
+    {
+        padding: 4em;
+    }
+    
+    #bienvenida h1
+    {
+        font-size: 1.5em;
+        line-height: 24px;
+    }
+    
+    #bienvenida p
+    {
+        font-size: 1.2em;
+    }
+    
+    #home_evento
+    {
+        padding: 4em;
+    }
+    
+    #home_evento h1
+    {
+        font-size: 1.5em;
+    }
+    
+    #home_evento p
+    {
+        font-size: 1.2em;
+    }
+    
+    #services
+    {
+        padding: 4em;
+    }
+    
+    #services h1
+    {
+        font-size: 1.5em;
+    }
+    
+    #services_column
+    {
+        padding: 1em;
+    }
+    
+    #services_column .imagen img
+    {
+        width: 12em;
+        height: 12em;
+    }
+    
+    #services_column .titulo strong
+    {
+        font-size: 1.2em;
+    }
+    
+    #presupuesto
+    {
+        padding: 4em;
+    }
+    
+    #presupuesto h1
+    {
+        font-size: 1.4em;
+    }
+    
+    #presupuesto p
+    {
+        font-size: 1.2em;
+    }
+    
+    /*********************/
+    /*******EVENTOS*******/
+    /*********************/
+
+    #eventos
+    {
+        padding: 4em;
+    }
+    
+    #eventos h1
+    {
+        font-size: 1.5em;
+        line-height: 32px;
+    }
+    
+    #eventos p
+    {
+        font-size: 1.2em;
+    }
+    
+    /*********************/
+    /******SERVICIOS******/
+    /*********************/
+
+    #header_servicios
+    {
+        padding: 4em;
+    }
+    
+    #header_servicios h1, #servicios h1
+    {
+        font-size: 1.5em;
+        line-height: 28px;
+    }
+    
+    #header_servicios p
+    {
+        font-size: 1.2em;
+    }
+    
+    #servicios #inter_box
+    {
+        height: 28em;
+        margin: 2em 0.5em;
+    }
+    
+    /*********************/
+    /*******GALERIA*******/
+    /*********************/
+    
+    #galeria h1
+    {
+        font-size: 1.5em;
+    }
+    
+    /*********************/
+    /*******CONTACTO******/
+    /*********************/
+    
+    #contacto #formulario, #contacto #info
+    {
+        padding: 1em;
+    }
+    
+    #contacto h1
+    {
+        font-size: 1.5em;
+    }
+    
+    #formulario fieldset legend
+    {
+        font-size: 1em;
+    }
+    
+    #contacto #info #v-card a
+    {
+        display: block;
+        margin-left:0;
+        margin-top: 0.5em;
+    }
+    
+    /*********************/
+    /********FOOTER*******/
+    /*********************/
+    
+    #resumen .list li, #resumen .links li
+    {
+        font-size: 1.2em;
+    }
+}
+/***********************************************************
+********************RESOLUTION: MAX:381px*******************
+***********************************************************/
+@media screen and (max-width: 381px){
+    /*********************/
+    /*********HOME********/
+    /*********************/
+    
+    #bienvenida, #home_evento, #services, #presupuesto
+    {
+        padding: 1.5em;
+    }
+    
+    #bienvenida h1, #home_evento h1, #services h1, #presupuesto h1
+    {
+        margin-top: 2em;
+    }
+    
+    #bienvenida p, #home_evento p
+    {
+        margin-bottom: 2em;
+        padding: 0;
+    }
+    
+    #services
+    {
+        padding: 1em;
+    }
+    
+    #services h1
+    {
+        margin-top: 3em;
+    }
+    
+    #services #services_column
+    {
+        margin-bottom: 3em;
+        padding: 0;
+    }
+    
+    #presupuesto p
+    {
+        padding: 0;
+    }
+    
+    #presupuesto a
+    {
+        margin-bottom: 3em;
+    }
+    
+    /*********************/
+    /*******EVENTOS*******/
+    /*********************/
+
+    #eventos
+    {
+        padding: 0;
+    }
+    
+    #eventos h1
+    {
+        margin-top: 4em;
+    }
+    
+    #eventos p
+    {
+        margin-bottom: 4em;
+        padding: 0.5em;
+    }
+    
+    #sociales
+    {
+        padding: 1em;
+    }
+    
+    #sociales_column
+    {
+        height: 20em;
+        margin: 2em 0;
+    }
+    
+    /*********************/
+    /******SERVICIOS******/
+    /*********************/
+
+    #header_servicios, #servicios
+    {
+        padding: 1em;
+    }
+    
+    #header_servicios h1, #servicios h1
+    {
+        margin-top: 3em;
+    }
+    
+    #header_servicios p
+    {
+        margin-bottom: 3em;
+    }
+    
+    #servicios #inter_box
+    {
+        margin: 1em;
+    }
+    
+    /*********************/
+    /*******GALERIA*******/
+    /*********************/
+    
+    #galeria
+    {
+        padding: 2em;
+    }
+    
+    #galeria h1
+    {
+        margin-top: 3em;
+    }
+    
+    #galeria #inter_box
+    {
+        padding: 0.5em;
+        margin-bottom: 2em;
+    }
+    
+    #galeria #inter_box img
+    {
+        height: 12em;
+    }
+    
+    /*********************/
+    /*******CONTACTO******/
+    /*********************/
+    
+    
+    
+    /*********************/
+    /********FOOTER*******/
+    /*********************/
+    
+    #resumen
+    {
+        padding: 0;
+    }
+    
+    #resumen h4
+    {
+        font-size: 1em;
+    }
+    
+    #resumen .list, #resumen .links
+    {
+        font-size: 0.8em;
+        margin: 0;
+        padding: 0.5em;
+    }
+}
